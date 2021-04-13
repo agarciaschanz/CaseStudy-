@@ -3,4 +3,4 @@
 ## [Betterment](https://www.betterment.com/category/robo-advisor/)
 ### Incorporated in 2008 
 ### Founders: Jon Stein & Eli Broverman 
-
+### Idea centered around the financial crisis in 2008 and finding a better way to invest for clients 
