@@ -22,4 +22,5 @@
 - [x] Backbone.js
 
 ## Landscape: 
-### Domain: 
+### Betterment is in the financial services sector, specifically advisory investment services
+
