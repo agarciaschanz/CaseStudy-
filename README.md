@@ -39,7 +39,7 @@
 ## _**Results**_:
 ### Impact:
 - [x] Added $10 Billion AUM in last 12 months ⬆️
-- [x] Added 56,000 clients in Q1 2021, 🆙
+- [x] Added 56,000 clients in Q1 2021, 🆙 116% year-over-year, and beating previouslty quarterly client record by 59% 📈
 
 
 
