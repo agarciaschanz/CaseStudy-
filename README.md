@@ -47,7 +47,7 @@
 
 ## _**Results**_
 ### [Betterment Financial Impact](https://www.prnewswire.com/news-releases/betterment-announces-record-growth-in-q1-2021-net-new-clients-up-more-than-100-yoy-301270497.html):
-- [x] Added $10 Billion AUM in last 12 months ⬆️
+- [x] Added $10 Billion Assets Under Management (AUM) in last 12 months ⬆️
 - [x] Added 56,000 clients in Q1 2021, 🆙    116% year-over-year, and beating previouslty quarterly client record by 59% 📈
 - [x] Client net deposits in Q1 2021 were over $1.5 Billion  💰  , up 118% year over year  🤑
 - [x] Recent acquistion of Wealthsimple will add more than 17,000 clients and $190 million AUM by June 2021 
