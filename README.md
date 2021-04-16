@@ -37,5 +37,5 @@
 - [x] [Acorns](https://www.acorns.com/)
 
 ## Results:
-### Impact: To date, Betterment has surpassed [$22 Billion AUM](https://www.investmentnews.com/betterment-grows-500k-accounts-189575) cementing itself as a major player and leader in the FinTech and robo-advisory space
+### Impact: To date, Betterment has surpassed [$22 Billion AUM](https://www.investmentnews.com/betterment-grows-500k-accounts-189575), cementing itself as a major player and leader in the FinTech and robo-advisory space
 
