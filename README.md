@@ -65,7 +65,9 @@
 - [x] Costs - Charges low annual 0.25% fee on AUM 
 
 ## _**Recommendations**_:
-- [x] Build Brand Image - 
-- [x] More Incentives -
-- [x] Moral Compass - 
+- [x] Build Brand Image - Incorporate more social media and customer interaction to create a fun enviornment for investing 
+- [x] More Incentives - Bring more deals to the table making it hard to walk away from 
+- [x] Moral Compass -  Priortize compassion and community by becoming more involved in city projects & funding 
+
+
 
