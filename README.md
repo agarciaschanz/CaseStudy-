@@ -22,5 +22,8 @@
 - [x] Backbone.js
 
 ## Landscape: 
-### Betterment is in the financial services sector, specifically advisory investment services
+### Betterment is in the FinTech and financial services sector, specifically advisory investment services. 
+
+## Trends:
+## Robo-advisory services market is expected to reach a CAGR of approximately 40.3% during the forecasted period (2021-2026). A lot of this growth is accredited to the Banking Financial Services and Insurance (BFSI) industry having accelerated growth in digital investments which Robo-advisros play a vital role in. Further adoption of AI and machine learning has allowed BFSI and robo-advisors to expand to a larger audiecne and clientele. Robo-advisors ofer accruate and trasnparent services to retail inverstors who are otherwise not well versed in financial knowledge. With momentum steadily increasing across the nation, Robo advisors and it's adoption has brought roughly 8% of US households to invest with one. 
 
