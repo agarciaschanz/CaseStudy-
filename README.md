@@ -74,5 +74,11 @@
 - [x] More Incentives - Bring more deals to the table making it hard to walk away from 
 - [x] Moral Compass -  Priortize compassion and community by becoming more involved in city projects & funding 
 
+#### Next Steps 
+- [x] Update existing software 
+- [x] No new software to be implemented 
+- [x] Revise code in Python to ensure accessibility
+- [x] Design code to meet parameters of building brand image and incentivzation 
+- [x] Launch new code for intitatives along with any fututre software updates. 
 
 
