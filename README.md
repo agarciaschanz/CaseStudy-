@@ -57,6 +57,6 @@
 ### [Where Betterment Raises the Bar](https://www.cnbc.com/2020/02/13/why-betterment-is-the-best-roboadvisor-for-beginning-investors.html)
 - [x] Financial Planning - Offers linked hihg-interest savings account among other advice and planning  
 - [x] User Interface & Customer Experience - Platform is sleek and easy-to-use
-- [x] Account Minimum - 0 account minimum 
+- [x] Account Minimum - $0 account minimum 
 - [x] Costs - Charges low annual 0.25% fee on AUM 
 
