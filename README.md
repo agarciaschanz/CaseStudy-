@@ -3,7 +3,7 @@
 ## Overview & Origin
 ### Incorporated in 2008 as a financial advisory company 
 ### Founders: Jon Stein & Eli Broverman 
-### Foundation: Idea for Betterment centered around the financial crisis in 2008 and finding a better way to invest for clients 
+### Foundation: Idea for Betterment was centered around the financial crisis in 2008 and finding a better way to invest for clients and reduce risk without sacrificing reward 
 ### Funding: [Betterment has received a total of $275 million](https://www.crunchbase.com/organization/betterment/company_financials) in funding through Series A, B, C, D, & E from 2010 to 2017
 
 ## Business Activities 
