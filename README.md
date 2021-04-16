@@ -1,6 +1,6 @@
 # Case Study 
 ## This case study is an overview of a FinTech and Robo-advisory Investment service company: [Betterment](https://www.betterment.com/)
-## Overview & Origin:
+## _**Overview & Origin_**:
 ### Betterment was incorporated in 2008 as a financial advisory company 
 ### Founders: Jon Stein & Eli Broverman 
 ### Foundation: Idea for Betterment was centered around the financial crisis in 2008 and finding a better way to invest for clients and reduce risk without sacrificing reward 
@@ -21,10 +21,10 @@
 - [x] Google Cloud Platform
 - [x] Backbone.js
 
-## Landscape:
+## _**Landscape**_:
 ### Betterment is in the FinTech and financial services sector, specifically advisory investment services. 
 
-## Trends:
+## _**Trends**_:
 ### Reach: Robo-advisory services market is expected to reach a [CAGR of approximately 40.3%](https://www.mordorintelligence.com/industry-reports/robo-advisory-services-market#:~:text=The%20Robo%2Dadvisory%20Services%20Market%20is%20expected%20to%20register%20a,are%20playing%20a%20major%20role) during the forecasted period (2021-2026). A lot of this growth is accredited to the Banking Financial Services and Insurance (BFSI) industry having accelerated growth in digital investments which Robo-advisors play a vital role in. Further adoption of AI and machine learning has allowed BFSI and robo-advisors to expand to a larger audiecne and clientele. Robo-advisors offer accurate and trasnparent services to retail inverstors who are otherwise not well versed in financial knowledge. With momentum steadily increasing across the globe, Robo advisors and it's adoption has brought [roughly 8% of US households](https://www.backendbenchmarking.com/blog/2020/11/robo-advisor-industry-trends-fall-2020/) to invest with one. 
 ### Applications: A wave of new financial service applications have been made avaible more now than ever. With so many updates and new features implemented the past year, retail investors have free, easy-to-use, 24/7 access to their finances and investments. In addition to robo-advisors, these apps also provide tools for financial planning and learning. 
 ### Low Cost: Due to the growing landscape and technology, robo-advisors have the advantage of charging low to essentially no fees. This is an extreme advantage to robo-advisors and an [immediate benefit to the consumer](https://www.aaii.com/journal/article/top-robo-adviser-trends-according-to-the-experts?via=emailsignup-readmore) by allowing them to start investing with less and see returns much quicker.
@@ -36,6 +36,6 @@
 - [x] [SoFi](https://www.sofi.com/)
 - [x] [Acorns](https://www.acorns.com/)
 
-## Results:
+## _**Results**_:
 ### Impact: To date, Betterment has surpassed [$22 Billion AUM](https://www.investmentnews.com/betterment-grows-500k-accounts-189575), cementing itself as a major player and leader in the FinTech and robo-advisory space
 
