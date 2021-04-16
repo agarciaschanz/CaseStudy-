@@ -77,7 +77,7 @@
 
 #### Next Steps 
 - [x] Update existing technology and software
-- [x] No new software to be implemented 
+- [x] No new technology or software to be implemented 
 - [x] Revise code in Python to ensure accessibility
 - [x] Design code to meet parameters of building brand image and incentivzation 
 - [x] Launch new code for intitatives along with any fututre software updates. 
