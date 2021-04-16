@@ -1,12 +1,12 @@
 # Case Study 
 ## This case study is an overview of a FinTech and Robo-advisory Investment service company: [Betterment](https://www.betterment.com/)
-## Overview & Origin
+## Overview & Origin:
 ### Betterment was incorporated in 2008 as a financial advisory company 
 ### Founders: Jon Stein & Eli Broverman 
 ### Foundation: Idea for Betterment was centered around the financial crisis in 2008 and finding a better way to invest for clients and reduce risk without sacrificing reward 
 ### Funding: [Betterment has received a total of $275 million](https://www.crunchbase.com/organization/betterment/company_financials) in funding through Series A, B, C, D, & E from 2010 to 2017
 
-## Business Activities 
+## Business Activities: 
 ### Betterment is involved in financial services, asset management, and portfolio management. The main problem or solution Betterment focuses on is [Robo-Advising](https://www.betterment.com/category/robo-advisor/) to better assist clients with investment opportunites and choices that fit their need of investing style. By implementing algorithims to trade, Betterment removes a good portion of human error on the investment side 
 ### -Typical clients include traditional retail investors looking to set up 401K and brokerage accounts
 ### -To date there are over 600,000 customers served by Betterment 
@@ -35,4 +35,7 @@
 - [x] [Charles Schwab](https://www.schwab.com/)
 - [x] [SoFi](https://www.sofi.com/)
 - [x] [Acorns](https://www.acorns.com/)
+
+## Results:
+###
 
