@@ -11,8 +11,9 @@
 ## _**Business Activities**_: 
 #### Betterment is involved in financial services, asset management, and portfolio management. The main problem or solution Betterment focuses on is [Robo-Advising](https://www.betterment.com/category/robo-advisor/) to better assist clients with investment opportunites and choices that fit their need of investing style. By implementing algorithims to trade, Betterment removes a good portion of human error on the investment side 
 ### Clientele:
-#### -Typical clients include traditional retail investors looking to set up 401K and brokerage accounts
-#### -To date there are over 600,000 customers served by Betterment 
+- [x] Typical clients include traditional retail investors looking to set up 401K and brokerage accounts
+- [x] To date there are over 600,000 customers served by Betterment
+- [x] Tailors to younger generations and incorporates older population  
 #### In the FinTech space, Betterment utilizes the following [technologies:](https://stackshare.io/betterment/betterment)
 - [x] Javascript
 - [x] Python
