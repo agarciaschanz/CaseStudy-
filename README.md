@@ -44,5 +44,13 @@
 - [x] Recent acquistion of Wealthsimple will add more than 17,000 clients and $190 million AUM by June 2021 
 
 ## _**Measured Metrics**_:
-
+- [x] Financial Planning 
+- [x] User Interface & Customer Experience 
+- [x] Product Features 
+- [x] Transparency & Conflict Interest  
+- [x] Access to Live Advisors 
+- [x] Account Minimum 
+- [x] Costs 
+- [x] Performance 
+- [x] Size & Tenure 
 
