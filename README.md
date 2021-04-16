@@ -2,13 +2,13 @@
 ##### ![image](https://user-images.githubusercontent.com/81876252/115085499-44d30b80-9ed0-11eb-85d2-43192febf900.png)
 
 ### This case study is an overview of a FinTech and Robo-advisory Investment service company: [Betterment](https://www.betterment.com/)
-## _**Overview & Origin**_:
+## _**Overview & Origin**_
 #### Origin: Betterment was incorporated in 2008 as a financial advisory company 
 #### Founders: Jon Stein & Eli Broverman 
 #### Foundation: Idea for Betterment was centered around the financial crisis in 2008 and finding a better way to invest for clients to reduce risk without sacrificing reward 
 #### Funding: [Betterment has received a total of $275 million](https://www.crunchbase.com/organization/betterment/company_financials) in funding through Series A, B, C, D, & E from 2010 to 2017
 
-## _**Business Activities**_: 
+## _**Business Activities**_ 
 #### Betterment is involved in financial services, asset management, and portfolio management. The main problem or solution Betterment focuses on is [Robo-Advising](https://www.betterment.com/category/robo-advisor/) to better assist clients with investment opportunites and choices that fit their need of investing style. By implementing algorithims to trade, Betterment removes a good portion of human error on the investment side 
 ### Clientele:
 - [x] Typical clients include traditional retail investors looking to set up 401K and brokerage accounts
@@ -26,10 +26,10 @@
 - [x] Google Cloud Platform
 - [x] Backbone.js
 
-## _**Landscape**_:
+## _**Landscape**_
 ### Betterment is in the FinTech and financial services sector, specifically advisory investment services. 
 
-## _**Trends**_:
+## _**Trends**_
 ### Reach: 
 #### Robo-advisory services market is expected to reach a [CAGR of approximately 40.3%](https://www.mordorintelligence.com/industry-reports/robo-advisory-services-market#:~:text=The%20Robo%2Dadvisory%20Services%20Market%20is%20expected%20to%20register%20a,are%20playing%20a%20major%20role) during the forecasted period (2021-2026). This growth is accredited to the Banking Financial Services and Insurance (BFSI) industry having accelerated growth in digital investments which Robo-advisors play a vital role in. Further adoption of AI and machine learning has allowed BFSI and robo-advisors to expand to a larger audiecne and clientele. Robo-advisors offer accurate and trasnparent services to retail inverstors who are otherwise not well versed in financial knowledge. With momentum steadily increasing across the globe :earth_americas: , Robo advisors and it's adoption has brought [roughly 8% of US households](https://www.backendbenchmarking.com/blog/2020/11/robo-advisor-industry-trends-fall-2020/) to invest with one. 
 ### Applications: 
@@ -45,7 +45,7 @@
 - [x] [SoFi](https://www.sofi.com/)
 - [x] [Acorns](https://www.acorns.com/)
 
-## _**Results**_:
+## _**Results**_
 ### [Betterment Financial Impact](https://www.prnewswire.com/news-releases/betterment-announces-record-growth-in-q1-2021-net-new-clients-up-more-than-100-yoy-301270497.html):
 - [x] Added $10 Billion AUM in last 12 months ⬆️
 - [x] Added 56,000 clients in Q1 2021, 🆙    116% year-over-year, and beating previouslty quarterly client record by 59% 📈
@@ -69,7 +69,7 @@
 - [x] Account Minimum - $0 account minimum 
 - [x] Costs - Charges low annual 0.25% fee on AUM 
 
-## _**Recommendations**_:
+## _**Recommendations**_
 - [x] Build Brand Image - Incorporate more social media and customer interaction to create a fun enviornment for investing 
 - [x] More Incentives - Bring more deals to the table making it hard to walk away from 
 - [x] Moral Compass -  Priortize compassion and community by becoming more involved in city projects & funding 
