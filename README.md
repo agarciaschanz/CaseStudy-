@@ -37,7 +37,7 @@
 - [x] [Acorns](https://www.acorns.com/)
 
 ## _**Results**_:
-### [Financial Impact](https://www.prnewswire.com/news-releases/betterment-announces-record-growth-in-q1-2021-net-new-clients-up-more-than-100-yoy-301270497.html):
+### [Betterment Financial Impact](https://www.prnewswire.com/news-releases/betterment-announces-record-growth-in-q1-2021-net-new-clients-up-more-than-100-yoy-301270497.html):
 - [x] Added $10 Billion AUM in last 12 months ⬆️
 - [x] Added 56,000 clients in Q1 2021, 🆙    116% year-over-year, and beating previouslty quarterly client record by 59% 📈
 - [x] Client net deposits in Q1 2021 were over $1.5 Billion  💰  , up 118% year over year  🤑
