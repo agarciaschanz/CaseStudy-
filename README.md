@@ -4,7 +4,7 @@
 ### Incorporated in 2008 
 ### Founders: Jon Stein & Eli Broverman 
 ### Foundation: Idea for Betterment centered around the financial crisis in 2008 and finding a better way to invest for clients 
-### Funding: Betterment has received a total of $275 million in funding through Series A, B, C, D, & E from 2010 to 2017
+### Funding: [Betterment has received a total of $275 million](https://www.crunchbase.com/organization/betterment/company_financials) in funding through Series A, B, C, D, & E from 2010 to 2017
 
 ## Business Activities 
 ### Betterment is involved in financial services, asset management, and portfolio management. The main problem or solution Betterment focuses on is Robo-Advising to better assist clients with investment opportunites and choices that fit their need of investing style. By implementing algorithims to trade, Betterment removes a good portion of human error on the investment side 
