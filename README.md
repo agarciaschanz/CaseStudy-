@@ -21,7 +21,7 @@
 - [x] Google Cloud Platform
 - [x] Backbone.js
 
-## Landscape: 
+## **Landscape:** 
 ### Betterment is in the FinTech and financial services sector, specifically advisory investment services. 
 
 ## Trends:
