@@ -1,4 +1,5 @@
-# _**Case Study**_ (![image](https://user-images.githubusercontent.com/81876252/115085499-44d30b80-9ed0-11eb-85d2-43192febf900.png)
+# _**Case Study**_ 
+##### ![image](https://user-images.githubusercontent.com/81876252/115085499-44d30b80-9ed0-11eb-85d2-43192febf900.png)
 
 ### This case study is an overview of a FinTech and Robo-advisory Investment service company: [Betterment](https://www.betterment.com/)
 ## _**Overview & Origin**_:
