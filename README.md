@@ -14,6 +14,7 @@
 - [x] Typical clients include traditional retail investors looking to set up 401K and brokerage accounts
 - [x] To date there are over 600,000 customers served by Betterment
 - [x] Tailors to younger generations and incorporates older population  
+### Technology: 
 #### In the FinTech space, Betterment utilizes the following [technologies:](https://stackshare.io/betterment/betterment)
 - [x] Javascript
 - [x] Python
