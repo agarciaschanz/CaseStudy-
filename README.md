@@ -76,7 +76,7 @@
 - [x] Moral Compass -  Priortize compassion and community by becoming more involved in city projects & funding 
 
 #### Next Steps 
-- [x] Update existing software 
+- [x] Update existing technology and software
 - [x] No new software to be implemented 
 - [x] Revise code in Python to ensure accessibility
 - [x] Design code to meet parameters of building brand image and incentivzation 
