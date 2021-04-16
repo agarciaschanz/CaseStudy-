@@ -64,3 +64,8 @@
 - [x] Account Minimum - $0 account minimum 
 - [x] Costs - Charges low annual 0.25% fee on AUM 
 
+## _**Recommendations**_:
+- [x] Build Brand Image - 
+- [x] More Incentives -
+- [x] Moral Compass - 
+
