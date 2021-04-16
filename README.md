@@ -43,7 +43,7 @@
 - [x] Client net deposits in Q1 2021 were over $1.5 Billion  💰  , up 118% year over year  🤑
 - [x] Recent acquistion of Wealthsimple will add more than 17,000 clients and $190 million AUM by June 2021 
 
-## [Measured Metrics](https://www.backendbenchmarking.com/robo-ranking/):
+### [Measured Metrics](https://www.backendbenchmarking.com/robo-ranking/):
 - [x] Financial Planning 
 - [x] User Interface & Customer Experience 
 - [x] Product Features 
