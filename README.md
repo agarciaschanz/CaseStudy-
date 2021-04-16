@@ -9,7 +9,7 @@
 #### Funding: [Betterment has received a total of $275 million](https://www.crunchbase.com/organization/betterment/company_financials) in funding through Series A, B, C, D, & E from 2010 to 2017
 
 ## _**Business Activities**_ 
-#### Betterment is involved in financial services, asset management, and portfolio management. The main problem or solution Betterment focuses on is [Robo-Advising](https://www.betterment.com/category/robo-advisor/) to better assist clients with investment opportunites and choices that fit their need of investing style. By implementing algorithims to trade, Betterment removes a good portion of human error on the investment side 
+#### Betterment is involved in financial services, asset management, and portfolio management. The main problem or solution Betterment focuses on is [Robo-Advising](https://www.betterment.com/category/robo-advisor/) to better assist clients with investment opportunites and choices that fit their need of investing style. By implementing algorithims to trade, Betterment removes a good portion of human error on the investment side.
 ### Clientele:
 - [x] Typical clients include traditional retail investors looking to set up 401K and brokerage accounts
 - [x] To date there are over 600,000 customers served by Betterment
@@ -80,6 +80,6 @@
 - [x] No new technology or software to be implemented 
 - [x] Revise code in Python to ensure accessibility
 - [x] Design code to meet parameters of building brand image and incentivzation 
-- [x] Launch new code for intitatives along with any fututre software updates. 
+- [x] Launch new code for intitatives along with any fututre software updates
 
 
