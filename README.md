@@ -1,6 +1,6 @@
 # Case Study 
 ## This case study is an overview of a FinTech and Robo-advisory Investment service company: [Betterment](https://www.betterment.com/)
-## _**Overview & Origin_**:
+## _**Overview & Origin**_:
 ### Betterment was incorporated in 2008 as a financial advisory company 
 ### Founders: Jon Stein & Eli Broverman 
 ### Foundation: Idea for Betterment was centered around the financial crisis in 2008 and finding a better way to invest for clients and reduce risk without sacrificing reward 
