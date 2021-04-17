@@ -1,7 +1,7 @@
 # _**Case Study**_ 
 ##### ![image](https://user-images.githubusercontent.com/81876252/115085499-44d30b80-9ed0-11eb-85d2-43192febf900.png)
 
-### This case study is an overview of FinTech and robo-advisory investment service company [Betterment](https://www.betterment.com/)
+### This case study is an overview of FinTech and Robo-advisory investment service company [Betterment](https://www.betterment.com/)
 ## _**Overview & Origin**_
 #### Origin: Betterment was incorporated in 2008 as a financial advisory company 
 #### Founders: Jon Stein & Eli Broverman 
